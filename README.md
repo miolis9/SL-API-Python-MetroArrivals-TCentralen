@@ -9,5 +9,4 @@ Plot metros arriving at T-centralen and minutes until arrival, 4 trains for each
 
 
 
-Based on https://github.com/jfjallid/Stockholm-SL-API-Python-library
-https://github.com/jfjallid/Stockholm-SL-API-Python-library/blob/master/examples/travelPlans.py
+Based on https://github.com/jfjallid/Stockholm-SL-API-Python-library/blob/master/examples/travelPlans.py
